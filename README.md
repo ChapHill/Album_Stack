@@ -1,4 +1,4 @@
-#Album Stack
+# Album Stack
 
 School project. 
 We were tasked to build our own stack implementation (as opposed to using the language built in method) and act as if we had a stack of albums and needed to put them into their corresponding stacks. 
